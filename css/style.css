@@ -352,6 +352,8 @@
 
 body {
 	font-family: Arial, Helvetica, Sans-serif;
+	overflow-x: hidden;
+    	width: 100%;
 }
 
 img {
