@@ -386,6 +386,8 @@ img {
 	font-size: 60px;
 	margin: 32px 0;
 	color: #674ea7;
+	margin-top: 25px;
+	margin-bottom: 30px;
 }
 
 .title h2 {
@@ -459,7 +461,7 @@ body {
 }
 
 .title {
-	margin-bottom: 40px;
+	margin-bottom: 0px;
 }
 
 #time {
